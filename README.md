@@ -1,7 +1,6 @@
 # Active Directory Home Lab
 
 ## Project Overview
-
 In this project I built a small Active Directory environment on my personal computer using VirtualBox.
 
 The purpose of the lab was to understand how enterprise Windows networks work and how system administrators manage users, devices, and networking services.
